@@ -1,0 +1,1 @@
+This package contains code that comply with the SOLID principles. 
